@@ -3,10 +3,10 @@ Repositiory to help Ignacio learn programming in Python 3.
 
 # Slides
 
-* [https://docs.google.com/presentation/d/1-Wf1TSe4nWhfr0uiduoPVf-sOsVF80kZ5EknwzII4JE/edit?usp=sharing](Google Slides en español).
-* [https://learnpythonthehardway.org/python3/](Learn Python: The hard way).
-* [https://docs.python.org/3/](Docs de Python 3).
-* [https://wiki.python.org/moin/SpanishLanguage](Recursos oficiales de Python 3).
+* [Google Slides en español](https://docs.google.com/presentation/d/1-Wf1TSe4nWhfr0uiduoPVf-sOsVF80kZ5EknwzII4JE/edit?usp=sharing).
+* [Learn Python: The hard way](https://learnpythonthehardway.org/python3/).
+* [Docs de Python 3](https://docs.python.org/3/).
+* [Recursos oficiales de Python 3](https://wiki.python.org/moin/SpanishLanguage).
 
 # The Zen of Python
 
